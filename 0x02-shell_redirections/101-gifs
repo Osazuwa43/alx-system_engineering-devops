@@ -1,0 +1,2 @@
+#/bin/bash
+find -type f-name "*.gif" I rev I cut -d"" -f1| cut -d' -2-|rev sort -f
